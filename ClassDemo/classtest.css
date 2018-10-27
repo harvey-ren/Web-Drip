@@ -1,4 +1,8 @@
-.title-header{
+h1.title-header{
     color: white;
     background-color: red;
+}
+
+span.red{
+    color: red;
 }
